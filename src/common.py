@@ -7,6 +7,8 @@ class Player:
 
 
 
-player = Player()
+player = Player(name='bla')
 player.name='The Hero'
 
+print('------------')
+print(player)
