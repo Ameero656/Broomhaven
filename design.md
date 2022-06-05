@@ -15,5 +15,8 @@ The player's Base damage, HP, and other stats revolve around the players level, 
 
 # Classes
 
-As of now, there is no class options, just "Player", however this will be changed in the future.
+As of now, there is no class options, just "Player", however this will be changed in the future. 
+
+# Game Play
+
 
